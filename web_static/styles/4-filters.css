@@ -1,0 +1,16 @@
+.Search{
+	background-color: #FF5A5F;
+	color: #FFFFFF;
+	height: 48px;
+	width: 20%;
+	border: 0;
+	border-radius: 4px;
+	font-size: 18px;
+	margin-right: 30px;
+	margin-left: auto;
+	margin-top: 10px;
+	display: block;
+}
+.Search:hover{
+	opacity: 90%;
+}

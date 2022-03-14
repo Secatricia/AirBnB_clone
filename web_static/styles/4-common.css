@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	padding:0;
+	color: #484848;
+	font-size: 14px;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.container{
+	display: block;
+	max-width: 1000px;
+	margin-top: 30px;
+	color: black;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	height: 70px;
+	width: 100%;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+}
